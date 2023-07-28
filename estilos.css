@@ -11,15 +11,15 @@
     
     body{
     
-    background-image: url("que-hacer-en-california-5.jpg");
+    background-image: url("california_mountains_stones_vegetation_lake_nevada-780150.jpg!d");
     
     background-repeat: no-repeat;
-
+    background-size: cover;
     
     }
     fondo tecnologia{
     
-        background-image: url("que-hacer-en-california-5.jpg");
+        background-image: url("");
         
         background-repeat: no-repeat;
         
@@ -32,9 +32,9 @@
     
      
     
-    width: 190px;
+    width: 300px;
     
-    height: 190px;
+    height: 200px;
     
     border-radius: 10px;
     
@@ -42,11 +42,11 @@
     
      top: 1px;
     
-    left: 1150px;
+    left: 180px;
 
     
     background-image: url("");
-    
+    background-size: contain;
     }
     
     .contenedor{
@@ -104,7 +104,7 @@
     
     margin-right:5px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("");
     
     }
     
@@ -155,3 +155,60 @@
         
         
         }
+
+        .imagensociales{
+                
+            background-repeat: no-repeat;
+        
+            float:right;
+                
+            height: 348px;
+                
+            width: 405px;
+                
+            margin-left: 20px;
+                
+            margin-right:20px;
+                
+            background-image: url("mapa\ de\ sociales\ 2.drawio.png");
+            
+            }
+            
+            
+            
+            .textosociales{
+            
+            text-align: justify;
+            
+            color: rgb(11, 147, 147);
+            
+            font-size: 25px;
+            }
+            .imagenmatematicas{
+                
+                background-repeat: no-repeat;
+            
+                float:right;
+                    
+                height: 348px;
+                    
+                width: 405px;
+                    
+                margin-left: 20px;
+                    
+                margin-right:20px;
+                    
+                background-image: url("");
+                
+                }
+                
+                
+                
+                .textomatematicas{
+                
+                text-align: justify;
+                
+                color: rgb(244, 247, 247);
+                
+                font-size: 25px;
+                }
