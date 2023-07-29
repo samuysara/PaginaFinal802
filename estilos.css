@@ -76,7 +76,7 @@
 .contenido{
 
     height: 200px;
-    width: 100%;
+    width: 300%;
     
     position: absolute;
     
@@ -155,34 +155,51 @@
         
         
         }
+        
+    
+    .contenedorsociales{
 
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 300px
+        
+         
+        
+        }
         .imagensociales{
                 
             background-repeat: no-repeat;
         
-            float:right;
+            float: inline-start;
                 
-            height: 348px;
+            height: 250px;
                 
-            width: 405px;
+            width: 300px;
                 
-            margin-left: 20px;
+            margin-left: 800x;
                 
             margin-right:20px;
                 
-            background-image: url("mapa\ de\ sociales\ 2.drawio.png");
+            background-image: url("mapa\ de\ sociales\ 2.drawio\ g.png");
+            
+        
             
             }
             
             
-            
             .textosociales{
+        
+                text-align: justify;
+                
+                color: rgba(0, 5, 5, 0.849);
+                
+                font-size: 25px;
             
-            text-align: justify;
             
-            color: rgb(11, 147, 147);
-            
-            font-size: 25px;
             }
             .imagenmatematicas{
                 
@@ -201,14 +218,54 @@
                 background-image: url("");
                 
                 }
-                
-                
-                
                 .textomatematicas{
-                
-                text-align: justify;
-                
-                color: rgb(244, 247, 247);
-                
-                font-size: 25px;
+            
+                    text-align: justify;
+                    
+                    color: rgb(11, 147, 147);
+                    
+                    font-size: 25px;
                 }
+            
+            .contenedoringles{
+    
+                height: 280px;
+                
+                width: 100%;
+                
+                position: absolute;
+                
+                top: 300px
+                
+                 
+                
+                }
+                    .imageningles{
+                        
+                        background-repeat: no-repeat;
+                    
+                        float:right;
+                            
+                        height: 348px;
+                            
+                        width: 405px;
+                            
+                        margin-left: 20px;
+                            
+                        margin-right:20px;
+                            
+                        background-image: url("");
+                        
+                        }
+                        
+                        
+                        
+                        .textoingles{
+                        
+                        text-align: justify;
+                        
+                        color: rgb(244, 247, 247);
+                        
+                        font-size: 25px;
+                        
+                        }
