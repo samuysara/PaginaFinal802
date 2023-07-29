@@ -105,15 +105,15 @@ top: 300px
                         
     float:left;
     
-    height: 200px;
+    height: 246px;
     
-    width: 260px;
+    width: 373px;
     
     margin-left: 5px;
     
     margin-right:5px;
     
-    background-image: url("th\ 2.jpg");
+    background-image: url("fibrosis-quistica1.jpg");
     
     }                     
                     
@@ -121,9 +121,9 @@ top: 300px
                 
         text-align: justify;
         
-        color: rgba(245, 242, 242, 0.925);
+        color: rgba(13, 216, 47, 0.925);
         
-        font-size: 15px;
+        font-size: 20px;
         font-family: Arial, Helvetica, sans-serif
 
     }                   
@@ -265,7 +265,7 @@ top: 300px
     background-repeat: no-repeat;
                                         
                                        
-    float:left;
+    float:center;
                                         
                                         
     height: 200px;
@@ -281,22 +281,101 @@ top: 300px
     margin-right:5px;
                                         
                                         
-    background-image: url("");
+    background-image: url("descarga.jpg");
                                         
                                         
 }
 
                                         
-.textotecnologia{
+.textotecno{
                                     
                                           
     text-align: justify;
                                             
                                            
-    color: azure;
+    color: rgb(8, 245, 245);
                                             
                                             
-    font-size: 20px;
+    font-size: 25px;
 
+                                        
+}
+.imagentecno2{
+        
+                                       
+    background-repeat: no-repeat;
+                                        
+                                       
+    float:center;
+                                        
+                                        
+    height: 200px;
+                                        
+                                        
+    width: 260px;
+                                        
+                                        
+                                        
+    margin-left: 5px;
+                                        
+                                        
+    margin-right:5px;
+                                        
+                                        
+    background-image: url("images.jpg");
+                                        
+                                        
+}
+.imagentecno3{
+        
+                                       
+    background-repeat: no-repeat;
+                                        
+                                       
+    float:center;
+                                        
+                                        
+    height: 200px;
+                                        
+                                        
+    width: 260px;
+                                        
+                                        
+                                        
+    margin-left: 5px;
+                                        
+                                        
+    margin-right:5px;
+                                        
+                                        
+    background-image: url("images\ \(1\).jpg");
+                                        
+                                        
+}
+
+.imagentecno4{
+        
+                                       
+    background-repeat: no-repeat;
+                                        
+                                       
+    float:center;
+                                        
+                                        
+    height: 200px;
+                                        
+                                        
+    width: 260px;
+                                        
+                                        
+                                        
+    margin-left: 5px;
+                                        
+                                        
+    margin-right:5px;
+                                        
+                                        
+    background-image: url("images2.png");
+                                        
                                         
 }
