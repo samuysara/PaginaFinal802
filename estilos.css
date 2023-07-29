@@ -68,29 +68,71 @@
      
     
     }
-    
      
-    
-    .contenido{
+              
+.contenido{
 
-        height: 280px;
+height: 280px;
+                    
+width: 100%;
+                    
+position: absolute;
+                    
+top: 410px;
+                    
+                     
+                    
+}
+                    
+.contenedorbiologia{
+
+height: 280px;
+                        
+width: 100%;
+                        
+position: absolute;
+                        
+top: 300px
+                        
+                         
+                        
+}
+
+
+.imagenbiologia{
+                    
+    background-repeat: no-repeat;
+                        
+    float:left;
+    
+    height: 200px;
+    
+    width: 260px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("th\ 2.jpg");
+    
+    }                     
+                    
+    .textobiologia{
+                
+        text-align: justify;
         
-        width: 100%;
+        color: rgba(245, 242, 242, 0.925);
         
-        position: absolute;
-        
-        top: 410px;
-        
-    }
-        
-     
-        
-         
-        
-        .imagentecno{
-        
-         
-        
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif
+
+    }                   
+                        
+                        
+    .imagenbiologia2{
+                    
+                     
+                    
         background-repeat: no-repeat;
         
         float:left;
@@ -103,43 +145,16 @@
         
         margin-right:5px;
         
-        background-image: url("");
+        background-image: url("th\ \(1\).jpg");
         
-        }
-        
-        
-        
-        .textotecno{
-        
-        text-align: justify;
-        
-        color: azure;
-        
-        font-size: 20px;
-        
-        
-        
-        }
-        .contenido{
-
-            height: 280px;
-            
-            width: 100%;
-            
-            position: absolute;
-            
-            top: 410px;
-            
-             
-            
-            }
-            
-             
-            
-            .imagensociales{
-            
-             
-            
+        }                     
+                
+                       
+    
+        .imagenmatematicas{
+                                
+                                 
+                                
             background-repeat: no-repeat;
             
             float:left;
@@ -154,182 +169,134 @@
             
             background-image: url("");
             
-            }
-            
-            
-            
-            .textosociales{
+            }    
+            .textomatematicas{
             
             text-align: justify;
             
             color: azure;
             
-            font-size: 20px;
-            
-            
-            
+            font-size: 25px;
             }
-          
-                
-                
-                
-              
-                .contenido{
 
-                    height: 280px;
-                    
-                    width: 100%;
-                    
-                    position: absolute;
-                    
-                    top: 410px;
+            .imageningles{
                     
                      
                     
-                    }
-                    
-                     
-                    
-                    .imageningles{
-                    
-                     
-                    
-                    background-repeat: no-repeat;
-                    
-                    float:left;
-                    
-                    height: 200px;
-                    
-                    width: 260px;
-                    
-                    margin-left: 5px;
-                    
-                    margin-right:5px;
-                    
-                    background-image: url("");
-                    
-                    }
-                    
-                    
-                    
-                    .textoingles{
-                    
-                    text-align: justify;
-                    
-                    color: azure;
-                    
-                    font-size: 20px;
-                    
-                    
-                    
-                    }
-                    .contenedorbiologia{
-
-                        height: 280px;
-                        
-                        width: 100%;
-                        
-                        position: absolute;
-                        
-                        top: 300px
-                        
-                         
-                        
-                        }
-                    .imagenbiologia{
-                    
-                     
-                    
-                        background-repeat: no-repeat;
-                        
-                        float:left;
-                        
-                        height: 200px;
-                        
-                        width: 260px;
-                        
-                        margin-left: 5px;
-                        
-                        margin-right:5px;
-                        
-                        background-image: url("th\ 2.jpg");
-                        
-                        }
-                        
-                        
-                         
-                .textobiologia{
+                background-repeat: no-repeat;
                 
-                    text-align: justify;
-                    
-                    color: rgba(245, 242, 242, 0.925);
-                    
-                    font-size: 15px;
-                    font-family: Arial, Helvetica, sans-serif
-    
+                float:left;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("");
+                
                 }
-                        .imagenbiologia2{
-                    
-                     
-                    
-                            background-repeat: no-repeat;
-                            
-                            float:left;
-                            
-                            height: 200px;
-                            
-                            width: 260px;
-                            
-                            margin-left: 5px;
-                            
-                            margin-right:5px;
-                            
-                            background-image: url("th\ \(1\).jpg");
-                            
-                            }
-                            .contenido{
+                
+                
+                
+                .textoingles{
+                
+                text-align: justify;
+                
+                color: azure;
+                
+                font-size: 20px;
+                font-family: Arial, Helvetica, sans-serif
+            }                                
+                                
+            
+.imagensociales{
+            
+             
+            
+                                   
+    background-repeat: no-repeat;
+                                    
+                                    
+    float:right;
+                                    
+                                   
+    height: 350px;
+                                    
+                                   
+    width: 565px;
+                                    
+                                   
+    margin-left: 5px;
+                                    
+                                   
+    margin-right:0px;
+                                    
+                                   
+    background-image: url("mapa\ de\ sociales\ 2.drawio.png");
+                                    
+                                   
+}
+                                                           
+                                                 
+.textosociales{
+          
+   
+                                   
+    text-align: justify;
+                                    
+                                   
+    color: rgb(248, 15, 15);
+                                    
+                                    
+    font-size: 25px;                            
+                                    
+    font-family: Arial, Helvetica, sans-serif
 
-                                height: 280px;
-                                
-                                width: 100%;
-                                
-                                position: absolute;
-                                
-                                top: 410px;
-                                
-                                 
-                                
-                                }
-                                
-                                 
-                                
-                                .imagenmatematicas{
-                                
-                                 
-                                
-                                background-repeat: no-repeat;
-                                
-                                float:left;
-                                
-                                height: 200px;
-                                
-                                width: 260px;
-                                
-                                margin-left: 5px;
-                                
-                                margin-right:5px;
-                                
-                                background-image: url("");
-                                
-                                }
-                                
-                                
-                                
-                                .textomatematicas{
-                                
-                                text-align: justify;
-                                
-                                color: azure;
-                                
-                                font-size: 25px;
-                                }
+}                                   
+
+
+                                    
+.imagentecno{
+        
+                                       
+    background-repeat: no-repeat;
+                                        
+                                       
+    float:left;
+                                        
+                                        
+    height: 200px;
+                                        
+                                        
+    width: 260px;
+                                        
+                                        
+                                        
+    margin-left: 5px;
+                                        
+                                        
+    margin-right:5px;
+                                        
+                                        
+    background-image: url("");
+                                        
+                                        
+}
+
+                                        
+.textotecnologia{
+                                    
+                                          
+    text-align: justify;
+                                            
+                                           
+    color: azure;
+                                            
+                                            
+    font-size: 20px;
+
+                                        
+}
